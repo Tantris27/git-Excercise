@@ -57,3 +57,9 @@ const answer=(arr, targetNumber)=>{
 	return result
 }
 answer(array2, 11)
+
+const colorConverter=(color)=>{
+	if(color.length===7){
+
+	}
+}
